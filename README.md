@@ -42,6 +42,7 @@ Examples of some games with some related concepts:
   * Multiple Pathways
     * Gives players choices.
   * Random Generation
+  * Lava Flows as a unavoidable obstacle.
 
 
 **Twists**
